@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\admin\Desktop\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\admin\Desktop\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\admin\Desktop\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\admin\Desktop\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Thong\Desktop\da lt mang\ltmang\buoi7\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Thong\Desktop\da lt mang\ltmang\buoi7\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Thong\Desktop\da lt mang\ltmang\buoi7\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Thong\Desktop\da lt mang\ltmang\buoi7\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Thong\Desktop\da lt mang\ltmang\buoi7\ConsoleApp2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Thong\Desktop\da lt mang\ltmang\buoi7\ConsoleApp2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache

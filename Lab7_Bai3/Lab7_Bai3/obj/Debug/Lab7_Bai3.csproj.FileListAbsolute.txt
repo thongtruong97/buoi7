@@ -1,0 +1,23 @@
+D:\vivi\Lab7_Bai3\Lab7_Bai3\bin\Debug\Lab7_Bai3.exe.config
+D:\vivi\Lab7_Bai3\Lab7_Bai3\bin\Debug\Lab7_Bai3.exe
+D:\vivi\Lab7_Bai3\Lab7_Bai3\bin\Debug\Lab7_Bai3.pdb
+D:\vivi\Lab7_Bai3\Lab7_Bai3\obj\Debug\Lab7_Bai3.form1.resources
+D:\vivi\Lab7_Bai3\Lab7_Bai3\obj\Debug\Lab7_Bai3.Properties.Resources.resources
+D:\vivi\Lab7_Bai3\Lab7_Bai3\obj\Debug\Lab7_Bai3.csproj.GenerateResource.Cache
+D:\vivi\Lab7_Bai3\Lab7_Bai3\obj\Debug\Lab7_Bai3.csproj.CoreCompileInputs.cache
+D:\vivi\Lab7_Bai3\Lab7_Bai3\obj\Debug\Lab7_Bai3.exe
+D:\vivi\Lab7_Bai3\Lab7_Bai3\obj\Debug\Lab7_Bai3.pdb
+D:\vivi\Lab7_Bai3\Lab7_Bai3\obj\Debug\Lab7_Bai3.csprojResolveAssemblyReference.cache
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai3\Lab7_Bai3\bin\Debug\Lab7_Bai3.exe.config
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai3\Lab7_Bai3\bin\Debug\Lab7_Bai3.exe
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai3\Lab7_Bai3\bin\Debug\Lab7_Bai3.pdb
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai3\Lab7_Bai3\obj\Debug\Lab7_Bai3.csprojResolveAssemblyReference.cache
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai3\Lab7_Bai3\obj\Debug\Lab7_Bai3.Form1.resources
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai3\Lab7_Bai3\obj\Debug\Lab7_Bai3.Properties.Resources.resources
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai3\Lab7_Bai3\obj\Debug\Lab7_Bai3.csproj.GenerateResource.Cache
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai3\Lab7_Bai3\obj\Debug\Lab7_Bai3.csproj.CoreCompileInputs.cache
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai3\Lab7_Bai3\obj\Debug\Lab7_Bai3.exe
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai3\Lab7_Bai3\obj\Debug\Lab7_Bai3.pdb
+C:\Users\Thong\Desktop\da lt mang\NetworkProgramming-Lab07-master\Lab7_Bai3\Lab7_Bai3\bin\Debug\Lab7_Bai3.exe.config
+C:\Users\Thong\Desktop\da lt mang\NetworkProgramming-Lab07-master\Lab7_Bai3\Lab7_Bai3\obj\Debug\Lab7_Bai3.exe
+C:\Users\Thong\Desktop\da lt mang\NetworkProgramming-Lab07-master\Lab7_Bai3\Lab7_Bai3\obj\Debug\Lab7_Bai3.pdb
